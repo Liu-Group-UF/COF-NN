@@ -31,9 +31,7 @@ Once these files are ready, you can run FLAME directly.
 
 ## Acknowledgements
 
-This project relies on the **FLAME** framework. We sincerely thank the FLAME developers for building the FLAME environment and providing comprehensive documentation and tooling that make this work possible.
-- FLAME: https://github.com/flame-code/FLAME
-- Documentation: https://flame-code.gitlab.io/FLAME/index.html
+This project relies on the **[FLAME](https://github.com/flame-code/FLAME)** framework. We sincerely thank the FLAME developers for building the FLAME environment and providing comprehensive documentation and tooling that make this work possible.
 
 We also acknowledge the developers and the broader community behind the **[Behler–Parrinello neural network (BPNN)](https://doi.org/10.1103/PhysRevLett.98.146401)** architecture.
 
